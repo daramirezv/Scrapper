@@ -10,8 +10,8 @@ public class Ceur2 {
 	
 	public static void main(String[] args) throws SearchException, JauntException {
 		
-		
-		for(int pos = 559; pos > 0; pos--)
+		//559
+		for(int pos = 375; pos >= 375; pos--)
 		{
 			try{
 				  UserAgent userAgent = new UserAgent();                
